@@ -1,6 +1,6 @@
-package io.javabrains.springsecurityjpa;
+package io.javabrains.danangtravel;
 
-import io.javabrains.springsecurityjpa.models.User;
+import io.javabrains.danangtravel.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

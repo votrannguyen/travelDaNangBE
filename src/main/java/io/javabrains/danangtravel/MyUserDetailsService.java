@@ -1,8 +1,8 @@
-package io.javabrains.springsecurityjpa;
+package io.javabrains.danangtravel;
 
-import io.javabrains.springsecurityjpa.models.MyUserDetails;
+import io.javabrains.danangtravel.models.MyUserDetails;
 
-import io.javabrains.springsecurityjpa.models.User;
+import io.javabrains.danangtravel.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
